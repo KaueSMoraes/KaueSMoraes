@@ -34,5 +34,7 @@ Apaixonado por tecnologia, e metido a desenvolvedor de software.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSMoraes&hide_progress=true)
 
-Desenvolvedor apaixonado por tecnologia e resolução de problemas. Estou sempre em busca de novos desafios e aprendizados. Vamos colaborar e construir soluções inovadoras juntos!
+
+## Conheça minha comunidade dev
+[Trinode.io - Se torne um desenvolvedor além do código](https://www.youtube.com/@trinode.io-x)
 
