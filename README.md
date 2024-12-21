@@ -33,8 +33,3 @@ Apaixonado por tecnologia, e metido a desenvolvedor de software.
 ### Linguagens mais utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSMoraes&hide_progress=true)
-
-
-## Conheça minha comunidade dev
-[Trinode.io - Se torne um desenvolvedor além do código](https://www.youtube.com/@trinode.io-x)
-
