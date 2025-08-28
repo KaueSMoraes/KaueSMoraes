@@ -48,7 +48,7 @@ While my core expertise is in backend development, I'm also a versatile develope
         alt="ToolSharp Logo" 
         title="ToolSharp Logo"
         width="80px"  style="padding-right:15px; padding-bottom:10px;" 
-        src="YOUR_TOOLSHARP_LOGO_URL" 
+        src="https://github.com/KaueSMoraes/ToolSharp/blob/main/Core/logotransparente.png?raw=true" 
     />
     <a href="https://www.nuget.org/packages/ToolSharp/" target="_blank">
         <img 
