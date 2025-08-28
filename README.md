@@ -165,6 +165,6 @@ While my core expertise is in backend development, I'm also a versatile develope
     align="left" 
     alt="Kauê's Top Languages" 
     height="195" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=tokyonight&layout=compact&custom_title=Top%20Techs&langs_count=8&locale=en" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSMoraes&theme=tokyonight&layout=compact&custom_title=Top%20Techs&langs_count=8&locale=en" 
   />
 </p>
