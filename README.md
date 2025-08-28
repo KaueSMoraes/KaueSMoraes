@@ -7,14 +7,6 @@ Hi, I'm Kauê Santos de Moraes, a skilled Backend Developer specializing in the 
 While my core expertise is in backend development, I'm also a versatile developer comfortable working across the full stack. I have hands-on experience with modern frontend frameworks and cross-platform mobile development, allowing me to tackle diverse challenges and contribute to all phases of a project.
 
 <p align="left">
-    <a href="https://www.nuget.org/packages/ToolSharp/">
-        <img 
-            alt="NuGet Package" 
-            title="View my NuGet Package" 
-            src="https://img.shields.io/nuget/v/ToolSharp.svg?style=for-the-badge&logo=nuget&color=004880"
-        />
-    </a>
-    <!-- ⬇️ IMPORTANT: Remember to replace 'your-github-username' with your actual GitHub username -->
     <a href="https://github.com/your-github-username?tab=followers">
         <img 
             alt="Followers" 
@@ -44,6 +36,27 @@ While my core expertise is in backend development, I'm also a versatile develope
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
+</p>
+
+---
+
+### 📦 My NuGet Package: ToolSharp
+
+<p align="left">
+    <img 
+        align="left" 
+        alt="ToolSharp Logo" 
+        title="ToolSharp Logo"
+        width="80px"  style="padding-right:15px; padding-bottom:10px;" 
+        src="YOUR_TOOLSHARP_LOGO_URL" 
+    />
+    <a href="https://www.nuget.org/packages/ToolSharp/" target="_blank">
+        <img 
+            alt="ToolSharp NuGet Package" 
+            src="https://img.shields.io/nuget/dt/ToolSharp?style=for-the-badge&logo=nuget&label=Downloads&color=004880"
+        />
+    </a>
+    <br/> **ToolSharp** is a personal project I created to support the .NET community. It's a lightweight and helpful utility library designed to simplify common development tasks, making coding faster and more efficient for C# developers.
 </p>
 
 ---
@@ -140,7 +153,6 @@ While my core expertise is in backend development, I'm also a versatile develope
 
 ### 📊 GitHub Stats
 
-<!-- IMPORTANT: Remember to replace 'your-github-username' with your actual GitHub username -->
 <p>
   <img 
     align="left" 
