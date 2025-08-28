@@ -11,7 +11,7 @@ While my core expertise is in backend development, I'm also a versatile develope
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/your-github-username?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/KaueSMoraes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
@@ -159,7 +159,7 @@ While my core expertise is in backend development, I'm also a versatile develope
     alt="Kauê's GitHub Stats" 
     height="195" 
     style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=KaueSMoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en" 
   />
   <img 
     align="left" 
