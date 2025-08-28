@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kauê Santos de Moraes
+# 👨🏻‍💻 Kaue Santos de Moraes
 
 **`Backend Developer`**
 
