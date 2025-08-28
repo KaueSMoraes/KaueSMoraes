@@ -56,7 +56,7 @@ While my core expertise is in backend development, I'm also a versatile develope
             src="https://img.shields.io/nuget/dt/ToolSharp?style=for-the-badge&logo=nuget&label=Downloads&color=004880"
         />
     </a>
-    <br/> **ToolSharp** is a personal project I created to support the .NET community. It's a lightweight and helpful utility library designed to simplify common development tasks, making coding faster and more efficient for C# developers.
+    <br/> ToolSharp is a personal project I created to support the .NET community. It's a lightweight and helpful utility library designed to simplify common development tasks, making coding faster and more efficient for C# developers.
 </p>
 
 ---
