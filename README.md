@@ -36,6 +36,12 @@ While my core expertise is in backend development, I'm also a versatile develope
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
+    <a href="https://blogkaue.vercel.app" target="_blank">
+        <img 
+            alt="Blog"
+            src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
